@@ -1,3 +1,5 @@
 1. Introduction to PHP
 Evaluation of Php, Basic Syntax, Defining variable and constant, Php Data type, Operator
 and Expression
+
+https://www.w3schools.com/php/php_operators.asp
