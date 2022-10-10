@@ -3,3 +3,6 @@ Evaluation of Php, Basic Syntax, Defining variable and constant, Php Data type, 
 and Expression
 
 https://www.w3schools.com/php/php_operators.asp
+
+2. PHP test
+https://www.w3schools.com/php/exercise.asp?filename=exercise_syntax1
